@@ -63,6 +63,7 @@ Crusher
 
    prommis.solid_handling.crusher
    prommis.solid_handling.crusher_solids_properties
+   prommis.comminution.unit_models.crusher
 
 Evaporation Ponds
 -----------------
